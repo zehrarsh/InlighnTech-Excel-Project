@@ -5,7 +5,7 @@ This Excel project aims to create a dynamic Amazon Sales Dashboard showcasing ke
 ![Alt text](CITYWISE.png)
 ![Alt text](KPI.png)
 ![Alt text](PRODUCTWISESALES.png)
-![Alt text](image_path)
+![Alt text](STATEWISESALES.png)
 
 
 Project Overview:
